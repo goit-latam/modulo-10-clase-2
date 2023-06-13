@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goit-latam.github.io/modulo-10-clase-1",
+  "homepage": "https://goit-latam.github.io/modulo-10-clase-2",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /modulo-10-clase-1/"
+    "build": "parcel build src/*.html --public-url /modulo-10-clase-2/"
   },
   "repository": {
     "type": "git",
